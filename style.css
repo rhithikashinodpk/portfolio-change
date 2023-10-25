@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+}
+.container-fluid .row{
+    height: 300px;
+    background-color: rgb(0, 132, 255);
+}
+.container-fluid .row .name-section .button-one:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(139, 78, 20);
+}
+.container-fluid .row .name-section .button-two:hover{
+    background-color: darkblue;
+    color: rgb(255, 255, 255);
+}
+.container-fluid .image-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-left:auto;
+    margin-bottom: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.container-fluid .image-section img{
+    position: absolute;
+    width: 60%;
+    
+}
+.container{
+    height: 600px;
+}
+
+.container .about-me .about-body .about-image img{
+    width: 90%;
+}
+.about-detail p{
+    text-align: justify;
+}
+.details .sec-one{
+    line-height: 50px;
+}
+.about-detail p{
+    line-height: 30px;
+}
+.sec-one .hire:hover{
+    color: white;
+    background-color: rgb(255, 0, 81);
+}
+.sec-one .learn:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 132, 255);
+}
+.row1{
+    padding-left:500px;
+
+}
+.skill{
+    color:blue;
+}
+.container-fluid .row1{
+    height: 700px;
+    background-color:white;
+}
+.progress{
+    width:500px;
+    height:5000px;
+}
+.education{
+    display: flex;
+    justify-content: center;
+    color:red;
+    text-decoration: dotted;
+}
+.skill{
+    display: flex;
+    justify-content: center;
+    color:violet;
+    text-decoration: dotted;
+
+}
+.product{
+    display: flex;
+    justify-content: center;
+    color:green;
+    text-decoration: dotted;
+
+    
+}
+.login{
+    display: flex;
+    justify-content: center;
+    color:green;
+    text-decoration: dotted;
+
+    
+}
+.contact{
+    padding-left: auto;
+    padding-right: auto;
+
+}
+    
+
