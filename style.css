@@ -70,13 +70,13 @@
 .education{
     display: flex;
     justify-content: center;
-    color:red;
+    color:blue;
     text-decoration: dotted;
 }
 .skill{
     display: flex;
     justify-content: center;
-    color:violet;
+    color:blue;
     text-decoration: dotted;
 
 }
