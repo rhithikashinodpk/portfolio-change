@@ -18,12 +18,11 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    padding-top: 100px;
 
 }
 .container-fluid .image-section img{
     position: absolute;
-    width: 30%;
+    width: 60%;
     }
 .container{
     height: 600px;
